@@ -17,6 +17,4 @@ Rename the mp3 file to something different, and click the button again. Firebot 
 ## Use
 I use this on a scene in Firebot that only my Patreon sponsors can get to. As I get a new Patron, I create a sound for them, or they provide me with one. I limit the sounds to a known length, and set a cooldown on the button for something greater than that value to prevent overlap of sounds.
 
-# Todo
-1. Make volume configurable
-2. Add option for default sound if no sound exists.
+
